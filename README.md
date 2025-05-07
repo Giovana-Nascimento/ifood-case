@@ -1,5 +1,7 @@
 # 🧠 Otimização de Cupons com Machine Learning — iFood Case
 
+⚠️ Atenção: o arquivo transactions.json deve ser baixados manualmente e inserido na pasta data/raw/, pois o tamanho total impede a inclusão no repositório.
+
 ## 📌 Visão Geral
 
 Este projeto simula um desafio real enfrentado por plataformas como o iFood: **otimizar o envio de cupons e ofertas promocionais para aumentar conversão e reduzir desperdício**. Utilizando dados históricos de clientes, ofertas e transações, aplicamos técnicas de análise exploratória, engenharia de atributos e machine learning para prever o **nível de engajamento de cada cliente com campanhas de cupons**.
