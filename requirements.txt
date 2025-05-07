@@ -1,0 +1,6 @@
+pyspark==3.4.1
+pandas
+scikit-learn
+matplotlib
+seaborn
+findspark
