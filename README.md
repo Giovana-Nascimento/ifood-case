@@ -1,6 +1,6 @@
 # 🧠 Otimização de Cupons com Machine Learning — iFood Case
 
-⚠️ Atenção: o arquivo transactions.json deve ser baixados manualmente e inserido na pasta data/raw/, pois o tamanho total impede a inclusão no repositório.
+⚠️ Atenção: o arquivo transactions.json deve ser baixado manualmente e inserido na pasta data/raw/, pois o tamanho total impede a inclusão no repositório.
 
 ## 📌 Visão Geral
 
